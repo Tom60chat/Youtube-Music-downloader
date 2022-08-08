@@ -1,6 +1,8 @@
 # Youtube Music downloader  
 Download high quality musics with their metadata from Youtube Music  
 
+Actually work with other music services like soundcloud...  
+
 ## Instruction  
 
 ### Windows  
