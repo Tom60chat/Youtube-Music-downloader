@@ -1,5 +1,8 @@
 # !/bin/bash
 
+## Author: Tom OLIVIER
+## Project link: https://github.com/Tom60chat/Youtube-Music-downloader/
+
 echo "Downloading: $1"
 echo ""
 
