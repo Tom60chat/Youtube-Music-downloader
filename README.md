@@ -52,3 +52,6 @@ Now make it sure your folder look like that:
   - yt-dlp_linux  
   
 Now open a terminal if not *(Ctrl+Alt+T)*, and put: `sh ./YT\ Music\ Dl.sh https://music.youtube.com/watch?v=lYBUbBu4W08` *(Replace by your Youtube Music link)* 
+
+## Credits
+Thanks to [yt-dlp](https://github.com/yt-dlp/yt-dlp) and their contributors to create this beautiful application, which makes our lives easier.
