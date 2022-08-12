@@ -11,9 +11,9 @@ First of all download the last version of [yt-dlp.exe or yt-dlp_x86.exe for x86 
 Next download the [**YT Music Dl.bat** script](https://raw.githubusercontent.com/Tom60chat/Youtube-Music-downloader/main/YT%20Music%20Dl.bat) (*Right click -> save*), and put in the **YT Music Dl** folder.  
   
 You need to have FFmpeg.  
-Download the last [release](https://github.com/GyanD/codexffmpeg/releases) of ffmpeg-X.X-essentials_build.zip and extract it into the parent folder of YT Music Dl and rename it FFmepg.  
+Download the last [release](https://github.com/GyanD/codexffmpeg/releases) of ffmpeg-X.X-essentials_build.zip and extract it into the parent folder of **YT Music Dl** and rename it to **FFmepg**.  
   
-Now make it sure your folder look like that:  
+Now make it sure your folders look like that:  
   - MyFolder/ 
     - FFmepg/  
       - bin/  
@@ -33,7 +33,7 @@ Next download the [**YT Music Dl.sh** script](https://raw.githubusercontent.com/
 You need to have FFmpeg.  
 Open a terminal (Ctrl+Alt+T) and put `sudo apt install ffmpeg`.  
   
-Now make it sure your folder look like that:  
+Now make it sure your folders look like that:  
 - YT Music Dl/  
   - YT Music Dl.sh  
   - yt-dlp_linux  
@@ -48,7 +48,7 @@ Next download the [**YT Music Dl.sh** script](https://raw.githubusercontent.com/
 You need to have FFmpeg.  
 First install [Homebrew](https://brew.sh/), after in the macOS terminal put `brew install ffmpeg` in the MacOs terminal.  
   
-Now make it sure your folder look like that:  
+Now make it sure your folders look like that:  
 - YT Music Dl/  
   - YT Music Dl.sh  
   - yt-dlp_linux  
